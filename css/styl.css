@@ -538,11 +538,13 @@
   letter-spacing: -0.4px;
   text-transform: capitalize;
 }
-#navbarSupportedContent ul li {
-  margin-left: 32px;
-}
+
 .nav-item .nav-link a:hover {
   color: #ffffff;
+}
+
+.nav-item a{
+  margin: 30px;
 }
 #btn-resume {
   display: flex;
@@ -729,3 +731,4 @@ footer {
 #wm li{
   list-style: none;
 }
+
